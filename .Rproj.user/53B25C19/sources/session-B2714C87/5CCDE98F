@@ -1,0 +1,27 @@
+{
+    "id": "5CCDE98F",
+    "path": "E:/datasciencecoursera/Helloworld.Rmd",
+    "project_path": "Helloworld.Rmd",
+    "type": "r_markdown",
+    "hash": "3180101069",
+    "contents": "",
+    "dirty": false,
+    "created": 1665486512746.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "11,0",
+        "scrollLine": "0",
+        "working_dir": "project"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1665486546,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1665486546017,
+    "read_only": false,
+    "read_only_alternatives": []
+}
